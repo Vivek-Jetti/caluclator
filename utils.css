@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-black{
+    background-color: black;
+    border-radius: 7px;
+    width: 295px;
+     height:440px;
+    /*margin:auto; */
+}
+.mx-auto{
+    margin: auto;
+}
+/* .m-w-20{
+    max-width: 13vm;
+} */
+.flex{
+  display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
